@@ -1,0 +1,13 @@
+# Clion Setting
+.pio
+CMakeListsPrivate.txt
+cmake-build-*/ 
+
+Makefile
+compile_commands.json
+.cache/
+main.plist
+lineTrace.plist
+comms.plist
+output.map
+

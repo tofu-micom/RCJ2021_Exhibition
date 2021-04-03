@@ -1,0 +1,8 @@
+# Clion Setting
+.pio
+CMakeListsPrivate.txt
+cmake-build-*/ 
+.vscode
+
+Makefile
+compile_commands.json
